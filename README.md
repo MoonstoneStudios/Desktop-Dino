@@ -1,5 +1,6 @@
 # DesktopDino
 Just your regular dinosaur desktop companion!
+![](Desktop dino)
  ---
 ### What does it do?
 
