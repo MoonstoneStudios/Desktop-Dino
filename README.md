@@ -9,6 +9,7 @@ Desktop Dino is a little desktop companion that sits around your desktop. When y
 
 ### How do I run it?
 
+[Download here](https://github.com/MoonstoneStudios/Desktop-Dino/releases/download/v1.0.0/DesktopDino.1.0.0.zip)
 Just run the `.exe` and you will see him appear.
 
 ### How do I close it?
@@ -24,7 +25,3 @@ Just run the `.exe` and you will see him appear.
 - Click `Quit`
 
 # This is tested in Windows 10.
-
-
- 
- 
