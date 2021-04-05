@@ -1,1 +1,1 @@
-This work is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+[Desktop Dino](https://github.com/MoonstoneStudios/Desktop-Dino) © 2021 by [Moonstone Studios](https://github.com/MoonstoneStudios) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
