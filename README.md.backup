@@ -1,5 +1,7 @@
 # DesktopDino
 Just your regular dinosaur desktop companion!
+
+![Desktop Dino](https://github.com/MoonstoneStudios/Desktop-Dino/blob/c621068530c5bf048243eb2d215094ab3446b1ce/DesktopDino/Resources/README_STUFF/dino.png?raw=true)
  ---
 ### What does it do?
 
@@ -11,9 +13,13 @@ Just run the `.exe` and you will see him appear.
 
 ### How do I close it?
 
-1. Open up your system tray.
-2. Right click the dinosaur icon
-3. Click `Quit`
+- Open up your system tray.
+
+![System Tray](https://github.com/MoonstoneStudios/Desktop-Dino/blob/main/DesktopDino/Resources/README_STUFF/tray.png?raw=true)
+
+- Right click the dinosaur icon
+![Quit](https://github.com/MoonstoneStudios/Desktop-Dino/blob/main/DesktopDino/Resources/README_STUFF/tray.png?raw=true)
+- Click `Quit`
 
 ### This is tested in Windows 10.
 
